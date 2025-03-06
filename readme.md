@@ -2,7 +2,7 @@
 
 Este é um projeto de portfólio pessoal desenvolvido com HTML e CSS, com foco em navegação entre links e design responsivo. O objetivo é apresentar as habilidades de Erika Rocco, uma desenvolvedora Front-end especializada em React, HTML e CSS.
 
-![image](https://github.com/user-attachments/assets/1e3b6aec-df21-4f3c-9b7e-08199dd5f707)
+![image](./assets/imagem1.jpg)
 
 ## Funcionalidades
 
@@ -12,6 +12,7 @@ Este é um projeto de portfólio pessoal desenvolvido com HTML e CSS, com foco e
 - **Efeitos interativos:** Hover nos botões e links para melhorar a experiência do usuário.
 
 ## Ferramentas utilizadas
+
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
